@@ -8,3 +8,4 @@ Git can merge branches.
 something
 abc
 nba
+cba
